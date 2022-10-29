@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anasuss , I'm not the best but I will be the best
+- 👋 Hi, I’m @anasuss 
 - 👀 I'm interested in learning programing
 - 🌱 I’m currently learning c++,java
-- 💞️ One day I will be a googler
+- 💞️ I'm not the best but I will be the best
 - 📫 How to reach me anaszhrouni@gamil.com or zahrouni.anas@etudiant-fst.utm.tn
 
 <!---
