@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @anasuss 
-- 👀 I'm interested in learning programing
-- 🌱 I’m currently learning c++,java
 - 💞️ competitive programming
 - 📫 How to reach me anaszhrouni@gamil.com or zahrouni.anas@etudiant-fst.utm.tn
 
