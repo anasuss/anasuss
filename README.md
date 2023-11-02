@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anasuss 
+- 👋 Hi, I’m @Anas Zahrouni 
 - 💞️ competitive programming
 - 📫 How to reach me anaszhrouni@gamil.com or zahrouni.anas@etudiant-fst.utm.tn
 
